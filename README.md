@@ -1,4 +1,4 @@
-<h2 align="center">👋 Olá! Eu sou o Willyam Gomes!.</h2>
+<h2 align="center">👋 Olá! Eu sou o Willyam Gomes!</h2>
 
 
 👨‍💻 Sobre mim:
