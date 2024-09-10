@@ -19,7 +19,7 @@
   <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-##
+## Como me encontrar
 
 <div>
   <a href="mailto:willyam.mgomes@gmail.com">
